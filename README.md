@@ -56,7 +56,7 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 
 #### Reverse image search
 
-[TinEye](https://tineye.com/)
+[TinEye](https://tineye.com/)   
 [Google Images](https://images.google.com/)
 
 #### Wayback machine
@@ -114,7 +114,9 @@ Do them!
 
 Check your device settings.  
 Don't use apps if the service is available in browser. (Use Firefox)  
-Close apps after usage completely.
+Close apps after usage completely.  
+Don't trust link _texts_.  
+Don't trust emails that you didn't expect. At least _don't click_ on links!
 
 ### Infos
 
