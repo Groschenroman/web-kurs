@@ -30,7 +30,7 @@ Lists of softwares, services or products mentioned belwo are not meant to be ter
 ##### Advanced
 
 🧩 [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin  
-🧩 [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms  
+🧩 [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of Facebook algorithm  
 🧩 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker  
 🧩 [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
 
