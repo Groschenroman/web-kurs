@@ -44,13 +44,13 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 #### Bangs
 
-Can be placed before or after search terms—separated with a white space.
-So either "!g What is the meaning of life?" or "What is the meaning of life? !g".
+Can be placed before or after search terms—separated with a white space.  
+So either "!g What is the meaning of life?" or "What is the meaning of life? !g".  
 Additionally it doesn't matter if the exclamation mark is leading or trailing, so "!g" equals "g!"
 
 ❗️ !g = Google results  
 ❗️ !gi = Google images  
-  ❗️ !i = DuckDuckGo images  
+❗️ !i = DuckDuckGo images  
 ❗️ !w = Wikipedia (english)  
 ❗️ !wde = Wikipedia (german)
 
