@@ -17,20 +17,20 @@ Desktop:
 
 ##### Advanced
 
-- "Mailvelope": Browser PGP Plugin
-- "tracking exposed: investigating algorithms": Collaborative tool to support investigation of personalization algorithms
-- "uBlock Origin": Granular Script blocker
-- "uMatrix": Most granular blocker
+- [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin
+- [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker
+- [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
 
 ##### Convenient
 
-- ["Adblock Plus"](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker
-- ["Bloody Vikings"](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings): Temporary emails
-- ["Facebook Container"](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): Isolates Facebook page in individual container
-- ["Firefox Multi-Account Containers"](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Multiple customizable containers
-- ["HTTPS Everywhere"](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection
-- ["NoScript"](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker
-- ["Privacy Badger"](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker
+- [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker
+- [Bloody Vikings](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings): Temporary emails
+- [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): Isolates Facebook page in individual container
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Multiple customizable containers
+- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker
+- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker
 - [("Ghostery")](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
 
 ##### Further infos
