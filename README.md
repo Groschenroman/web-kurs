@@ -13,13 +13,6 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 #### Browser Plugins/Add-ons
 
-##### Advanced
-
-🧩 [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin  
-🧩 [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms  
-🧩 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker  
-🧩 [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
-
 ##### Convenient
 
 🧩 [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker  
@@ -30,6 +23,13 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 🧩 [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker  
 🧩 [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker  
 🧩 [(Ghostery)](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
+
+##### Advanced
+
+🧩 [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin  
+🧩 [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms  
+🧩 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker  
+🧩 [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
 
 ##### Further infos
 
