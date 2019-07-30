@@ -93,7 +93,7 @@ Don't use "free" VPNs - you pay with your data
 
 Use a password manager!  
 Keep your master pw in mind!  
-**Rule of thumb: Length means strength**  
+*Rule of thumb: Length means strength*
 
 #### Two-Factor Authentication (2FA)
 
