@@ -91,11 +91,11 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 
 ### Password(s)
 
-Use a password manager!  
+Use a password manager!
 
 🔏 [RememBear](https://www.remembear.com/)  
-🔏 [Dash Lane](https://www.dashlane.com/)  
-🔏 [One Password](https://1password.com/)
+🔏 [One Password](https://1password.com/)  
+🔏 [Dash Lane](https://www.dashlane.com/)
 
 Keep your master pw in mind!  
 *Rule of thumb: Length means strength*
@@ -117,8 +117,8 @@ Do them!
 
 ### General advice
 
-Check your device settings.  
-Don't use apps if the service is available in browser. (Use Firefox)  
+Check your device and (social) account settings.  
+Don't use apps if the service is available in browser.  
 Close apps after usage completely.  
 Don't trust link _texts_.  
 Don't trust emails that you didn't expect. At least _don't click_ on links!
