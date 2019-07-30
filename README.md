@@ -3,6 +3,7 @@
 ## Disclaimer
 
 I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific research_.
+Lists of softwares, services or products are not 
 
 ## 1. Privacy online
 
@@ -53,6 +54,8 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 ❗️ !i = DuckDuckGo images  
 ❗️ !w = Wikipedia (english)  
 ❗️ !wde = Wikipedia (german)
+❗️ !leo = Leo word translation (EN - DE)  
+❗️ !translate = Google phrase translation
 
 #### Reverse image search
 
