@@ -103,7 +103,7 @@ Use a password manager!
 Keep your master pw in mind!  
 *Rule of thumb: Length means strength*
 
-#### Two-Factor Authentication (2FA)
+#### Two-Factor ("Two-Step") Authentication (2FA)
 
 Use it wherever offered!
 
@@ -124,7 +124,8 @@ Check your device and (social) account settings.
 Don't use apps if the service is available in browser.  
 Close apps after usage completely.  
 Don't trust link _texts_.  
-Don't trust emails that you didn't expect. At least _don't click_ on links!
+Don't trust emails that you didn't expect. At least _don't click_ on links!  
+Check which mail accounts might have been leaked using [Have I been pwned?](https://haveibeenpwned.com/)
 
 ### Infos
 
