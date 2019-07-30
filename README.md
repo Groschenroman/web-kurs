@@ -31,8 +31,7 @@ Desktop:
 - "HTTPS Everywhere": Force encrypted HTTP connection
 - "NoScript": Script blocker
 - "Privacy Badger": Learning script blocker
-
-"Ghostery": Ad blocker - OPT OUT!
+- "Ghostery": Ad blocker - OPT OUT!
 
 ##### Further infos
 
