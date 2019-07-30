@@ -53,7 +53,7 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 ❗️ !gi = Google images  
 ❗️ !i = DuckDuckGo images  
 ❗️ !w = Wikipedia (english)  
-❗️ !wde = Wikipedia (german)
+❗️ !wde = Wikipedia (german)  
 ❗️ !leo = Leo word translation (EN - DE)  
 ❗️ !translate = Google phrase translation
 
