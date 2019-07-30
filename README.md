@@ -42,8 +42,8 @@ https://vpnpro.com/blog/best-ad-blockers/
 
 ### Search engine(s)
 
-[DuckDuckGo](https://duckduckgo.com/): When in doubt use [!bangs](https://duckduckgo.com/bang)
-[StartPage](https://www.startpage.com/) (Google results, made by IxQuick)
+- [DuckDuckGo](https://duckduckgo.com/): When in doubt use [!bangs](https://duckduckgo.com/bang)
+- [StartPage](https://www.startpage.com/) (Google results, made by IxQuick)
 
 #### Bangs
 
@@ -83,7 +83,7 @@ Don't use "free" VPNs - you pay with your data
 
 #### Mail aliases
 
-1. One for your email login
+1. One for your email login _(Not your actual name!)_
 2. One for your personal mails (friends and family)
 3. (At least) one for your accounts across the web
 4. One for further privacy concerns
@@ -106,8 +106,8 @@ Use it wherever offered!
 
 Built-in encryption is often strong. Compliance with police and secret services varies.
 
-[VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-[BoxCryptor](https://www.boxcryptor.com/)
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+- [BoxCryptor](https://www.boxcryptor.com/)
 
 ### Updates
 
@@ -115,8 +115,8 @@ Do them!
 
 ### Infos
 
-[Heise](https://heise.de/)
-[Logbuch Netzpolitik (Podcast)](https://logbuch-netzpolitik.de/)
-[Netzpolitik (Website)](https://netzpolitik.org/)
-[Netzpolitik (Podcast)](https://netzpolitik.org/podcast/)
-[DuckDuckGo Blog](https://spreadprivacy.com/)
+- [Heise](https://heise.de/)
+- [Logbuch Netzpolitik (Podcast)](https://logbuch-netzpolitik.de/)
+- [Netzpolitik (Website)](https://netzpolitik.org/)
+- [Netzpolitik (Podcast)](https://netzpolitik.org/podcast/)
+- [DuckDuckGo Blog](https://spreadprivacy.com/)
