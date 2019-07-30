@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-I'm not an expert. I'm a user. I share _justifiable opinions_ - not necessarily _researched knowledge_.
+I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific research_.
 
 ## 1. Privacy online
 
@@ -24,14 +24,14 @@ Desktop:
 
 ##### Convenient
 
-- "Adblock Plus": Ad blocker
-- "Bloody Vikings": Temporary emails
-- "Facebook Container": Isolates Facebook page in individual container
-- "Firefox Multi-Account Containers": Multiple customizable containers
-- "HTTPS Everywhere": Force encrypted HTTP connection
-- "NoScript": Script blocker
-- "Privacy Badger": Learning script blocker
-- "Ghostery": Ad blocker - OPT OUT!
+- ["Adblock Plus"](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker
+- ["Bloody Vikings"](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings): Temporary emails
+- ["Facebook Container"](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): Isolates Facebook page in individual container
+- ["Firefox Multi-Account Containers"](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Multiple customizable containers
+- ["HTTPS Everywhere"](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection
+- ["NoScript"](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker
+- ["Privacy Badger"](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker
+- [("Ghostery")](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
 
 ##### Further infos
 
