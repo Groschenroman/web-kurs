@@ -1,6 +1,6 @@
 # Web Development Course
 
-![](https://github.com/Groschenroman/groschenroman.github.io/blob/master/repository-open-graph-template.png?raw=true)
+![](/images/repository-open-graph-template.png?raw=true)
 
 ## Disclaimer
 
