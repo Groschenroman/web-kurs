@@ -92,6 +92,11 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 ### Password(s)
 
 Use a password manager!  
+
+🔏 [RememBear](https://www.remembear.com/)  
+🔏 [Dash Lane](https://www.dashlane.com/)  
+🔏 [One Password](https://1password.com/)
+
 Keep your master pw in mind!  
 *Rule of thumb: Length means strength*
 
