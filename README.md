@@ -1,5 +1,7 @@
 # Web Development Course
 
+![](https://github.com/Groschenroman/groschenroman.github.io/blob/master/repository-open-graph-template.png?raw=true)
+
 ## Disclaimer
 
 I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific research_.
