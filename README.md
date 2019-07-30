@@ -65,7 +65,7 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 
 ### VPNs
 
-[VPN Pro review](https://vpnpro.com/vpn-reviews/?sorting=rating)
+[VPN Pro review](https://vpnpro.com/vpn-reviews/?sorting=rating)  
 Don't use "free" VPNs - you pay with your data
 
 ### Firewall
@@ -74,8 +74,8 @@ Don't use "free" VPNs - you pay with your data
 
 ### Email
 
-[Posteo](https://posteo.de/)
-[ProtonMail](https://protonmail.com/)
+[Posteo](https://posteo.de/)  
+[ProtonMail](https://protonmail.com/)  
 [Riseup](https://riseup.net/)
 
 #### Mail aliases
@@ -114,7 +114,7 @@ Do them!
 
 Check your device settings.  
 Don't use apps if the service is available in browser. (Use Firefox)  
-Close apps after usage completely.  
+Close apps after usage completely.
 
 ### Infos
 
