@@ -8,39 +8,38 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 ### Browser
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/) (--> Check settings)
-- [TOR](https://www.torproject.org/)
+🖥 [Firefox](https://www.mozilla.org/en-US/firefox/) ☛ Check settings  
+🖥 [TOR](https://www.torproject.org/)
 
 #### Browser Plugins/Add-ons
 
 ##### Advanced
 
-- [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin
-- [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker
-- [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
+🧩 [Mailvelope](https://addons.mozilla.org/en-US/firefox/addon/mailvelope/): Browser PGP Plugin  
+🧩 [Facebook tracking exposed](https://addons.mozilla.org/en-US/firefox/addon/facebook-tracking-exposed/): Collaborative tool to support investigation of personalization algorithms  
+🧩 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Granular Script blocker  
+🧩 [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/): Most granular blocker
 
 ##### Convenient
 
-- [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker
-- [Bloody Vikings](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings): Temporary emails
-- [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): Isolates Facebook page in individual container
-- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Multiple customizable containers
-- [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection
-- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker
-- [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker
-- [(Ghostery)](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
+🧩 [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus): Ad blocker  
+🧩 [Bloody Vikings](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings): Temporary emails  
+🧩 [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/): Isolates Facebook page in individual container  
+🧩 [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/): Multiple customizable containers  
+🧩 [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection  
+🧩 [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker  
+🧩 [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker  
+🧩 [(Ghostery)](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
 
 ##### Further infos
-
-https://spreadprivacy.com/tag/privacy-newsletter/  
-https://spreadprivacy.com/tag/device-privacy-tips/  
-https://vpnpro.com/blog/best-ad-blockers/
+🔗 https://spreadprivacy.com/tag/privacy-newsletter/  
+🔗 https://spreadprivacy.com/tag/device-privacy-tips/  
+🔗 https://vpnpro.com/blog/best-ad-blockers/
 
 ### Search engine(s)
 
-- [DuckDuckGo](https://duckduckgo.com/): When in doubt use [!bangs](https://duckduckgo.com/bang)
-- [StartPage](https://www.startpage.com/) (Google results, made by IxQuick)
+🔍 [DuckDuckGo](https://duckduckgo.com/): When in doubt use [!bangs](https://duckduckgo.com/bang)  
+🔍 [StartPage](https://www.startpage.com/) (Google results, made by IxQuick)
 
 #### Bangs
 
@@ -48,35 +47,35 @@ Can be placed before or after search terms—separated with a white space.
 So either "!g What is the meaning of life?" or "What is the meaning of life? !g".
 Additionally it doesn't matter if the exclamation mark is leading or trailing, so "!g" equals "g!"
 
-- !g = Google results
-- !gi = Google images
-  - !i = DuckDuckGo images
-- !w = Wikipedia (english)
-- !wde = Wikipedia (german)
+❗️ !g = Google results  
+❗️ !gi = Google images  
+  ❗️ !i = DuckDuckGo images  
+❗️ !w = Wikipedia (english)  
+❗️ !wde = Wikipedia (german)
 
 #### Reverse image search
 
-[TinEye](https://tineye.com/)   
-[Google Images](https://images.google.com/)
+🖼 [TinEye](https://tineye.com/)  
+🖼 [Google Images](https://images.google.com/)
 
 #### Wayback machine
 
-[Wayback machine (from Internet Archive)](https://archive.org/web/web.php)
+🕰 [Wayback machine (from Internet Archive)](https://archive.org/web/web.php)
 
 ### VPNs
 
-[VPN Pro review](https://vpnpro.com/vpn-reviews/?sorting=rating)  
-Don't use "free" VPNs - you pay with your data
+🔒 [VPN Pro review](https://vpnpro.com/vpn-reviews/?sorting=rating)  
+⚠️ Don't use "free" VPNs - you pay with your data
 
 ### Firewall
 
-[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+🔥 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 
 ### Email
 
-[Posteo](https://posteo.de/)  
-[ProtonMail](https://protonmail.com/)  
-[Riseup](https://riseup.net/)
+📧 [Posteo](https://posteo.de/)  
+📧 [ProtonMail](https://protonmail.com/)  
+📧 [Riseup](https://riseup.net/)
 
 #### Mail aliases
 
@@ -103,8 +102,8 @@ Use it wherever offered!
 
 Built-in encryption is often strong. Compliance with police and secret services varies.
 
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-- [BoxCryptor](https://www.boxcryptor.com/)
+🔐 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+🔐 [BoxCryptor](https://www.boxcryptor.com/)
 
 ### Updates
 
@@ -120,8 +119,8 @@ Don't trust emails that you didn't expect. At least _don't click_ on links!
 
 ### Infos
 
-- [Heise](https://heise.de/)
-- [Logbuch Netzpolitik (Podcast)](https://logbuch-netzpolitik.de/)
-- [Netzpolitik (Website)](https://netzpolitik.org/)
-- [Netzpolitik (Podcast)](https://netzpolitik.org/podcast/)
-- [DuckDuckGo Blog](https://spreadprivacy.com/)
+📰 [Heise](https://heise.de/)  
+📰 [Logbuch Netzpolitik (Podcast)](https://logbuch-netzpolitik.de/)  
+📰 [Netzpolitik (Website)](https://netzpolitik.org/)  
+📰 [Netzpolitik (Podcast)](https://netzpolitik.org/podcast/)  
+📰 [DuckDuckGo Blog](https://spreadprivacy.com/)
