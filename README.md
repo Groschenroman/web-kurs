@@ -31,7 +31,7 @@ Desktop:
 - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/): Force encrypted HTTP connection
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): Script blocker
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Learning script blocker
-- [("Ghostery")](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
+- [(Ghostery)](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
 
 ##### Further infos
 
