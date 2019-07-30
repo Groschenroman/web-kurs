@@ -8,7 +8,7 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 ### Browser
 
-🖥 [Firefox](https://www.mozilla.org/en-US/firefox/) ☛ Check settings  
+🖥 [Firefox](https://www.mozilla.org/en-US/firefox/)  
 🖥 [TOR](https://www.torproject.org/)
 
 #### Browser Plugins/Add-ons
@@ -32,6 +32,7 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 🧩 [(Ghostery)](https://addons.mozilla.org/en-US/firefox/addon/ghostery/): Ad blocker - OPT OUT!
 
 ##### Further infos
+
 🔗 https://spreadprivacy.com/tag/privacy-newsletter/  
 🔗 https://spreadprivacy.com/tag/device-privacy-tips/  
 🔗 https://vpnpro.com/blog/best-ad-blockers/
@@ -86,7 +87,7 @@ Additionally it doesn't matter if the exclamation mark is leading or trailing, s
 
 #### PGP/GnuPG
 
-[Open PGP](https://www.openpgp.org/software/)
+🔐 [Open PGP](https://www.openpgp.org/software/)
 
 ### Password(s)
 
@@ -102,8 +103,8 @@ Use it wherever offered!
 
 Built-in encryption is often strong. Compliance with police and secret services varies.
 
-🔐 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
-🔐 [BoxCryptor](https://www.boxcryptor.com/)
+🔒 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+🔒 [BoxCryptor](https://www.boxcryptor.com/)
 
 ### Updates
 
