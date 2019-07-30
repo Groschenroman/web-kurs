@@ -8,10 +8,8 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 ### Browser
 
-Desktop:
-
-- Firefox (--> Check settings)
-- TOR
+- [Firefox](https://www.mozilla.org/en-US/firefox/) (--> Check settings)
+- [TOR](https://www.torproject.org/)
 
 #### Browser Plugins/Add-ons
 
@@ -35,8 +33,8 @@ Desktop:
 
 ##### Further infos
 
-https://spreadprivacy.com/tag/privacy-newsletter/
-https://spreadprivacy.com/tag/device-privacy-tips/
+https://spreadprivacy.com/tag/privacy-newsletter/  
+https://spreadprivacy.com/tag/device-privacy-tips/  
 https://vpnpro.com/blog/best-ad-blockers/
 
 ### Search engine(s)
@@ -95,7 +93,7 @@ Don't use "free" VPNs - you pay with your data
 
 Use a password manager!  
 Keep your master pw in mind!  
-*Rule of thumb: Length means strength*  
+**Rule of thumb: Length means strength**  
 
 #### Two-Factor Authentication (2FA)
 
