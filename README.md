@@ -93,9 +93,9 @@ Don't use "free" VPNs - you pay with your data
 
 ### Password(s)
 
-Use a password manager!
-Keep your master pw in mind!
-*Rule of thumb: Length means strength*
+Use a password manager!  
+Keep your master pw in mind!  
+*Rule of thumb: Length means strength*  
 
 #### Two-Factor Authentication (2FA)
 
@@ -111,6 +111,12 @@ Built-in encryption is often strong. Compliance with police and secret services 
 ### Updates
 
 Do them!
+
+### General advice
+
+Check your device settings.  
+Don't use apps if the service is available in browser. (Use Firefox)  
+Close apps after usage completely.  
 
 ### Infos
 
