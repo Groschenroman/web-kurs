@@ -15,24 +15,27 @@ Desktop:
 
 #### Browser Plugins/Add-ons
 
-// Advanced:
-"Mailvelope": Browser PGP Plugin
-"tracking exposed: investigating algorithms": Collaborative tool to support investigation of personalization algorithms
-"uBlock Origin": Granular Script blocker
-"uMatrix": Most granular blocker
+##### Advanced
 
-// Convenient
-"Adblock Plus": Ad blocker
-"Bloody Vikings": Temporary emails
-"Facebook Container": Isolates Facebook page in individual container
-"Firefox Multi-Account Containers": Multiple customizable containers
-"HTTPS Everywhere": Force encrypted HTTP connection
-"NoScript": Script blocker
-"Privacy Badger": Learning script blocker
+- "Mailvelope": Browser PGP Plugin
+- "tracking exposed: investigating algorithms": Collaborative tool to support investigation of personalization algorithms
+- "uBlock Origin": Granular Script blocker
+- "uMatrix": Most granular blocker
+
+##### Convenient
+
+- "Adblock Plus": Ad blocker
+- "Bloody Vikings": Temporary emails
+- "Facebook Container": Isolates Facebook page in individual container
+- "Firefox Multi-Account Containers": Multiple customizable containers
+- "HTTPS Everywhere": Force encrypted HTTP connection
+- "NoScript": Script blocker
+- "Privacy Badger": Learning script blocker
 
 "Ghostery": Ad blocker - OPT OUT!
 
-// Further infos:
+##### Further infos
+
 https://spreadprivacy.com/tag/privacy-newsletter/
 https://spreadprivacy.com/tag/device-privacy-tips/
 https://vpnpro.com/blog/best-ad-blockers/
@@ -42,13 +45,25 @@ https://vpnpro.com/blog/best-ad-blockers/
 [DuckDuckGo](https://duckduckgo.com/): When in doubt use [!bangs](https://duckduckgo.com/bang)
 [StartPage](https://www.startpage.com/) (Google results, made by IxQuick)
 
-#### Hints
+#### Bangs
 
-// Reverse image search
+Can be placed before or after search terms—separated with a white space.
+So either "!g What is the meaning of life?" or "What is the meaning of life? !g".
+Additionally it doesn't matter if the exclamation mark is leading or trailing, so "!g" equals "g!"
+
+- !g = Google results
+- !gi = Google images
+  - !i = DuckDuckGo images
+- !w = Wikipedia (english)
+- !wde = Wikipedia (german)
+
+#### Reverse image search
+
 [TinEye](https://tineye.com/)
 [Google Images](https://images.google.com/)
 
-// Wayback machine
+#### Wayback machine
+
 [Wayback machine (from Internet Archive)](https://archive.org/web/web.php)
 
 ### VPNs
@@ -83,7 +98,7 @@ Use a password manager!
 Keep your master pw in mind!
 *Rule of thumb: Length means strength*
 
-##### Two-Factor Authentication (2FA)
+#### Two-Factor Authentication (2FA)
 
 Use it wherever offered!
 
