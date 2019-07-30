@@ -8,8 +8,8 @@ I'm not an expert. I'm a user. I share _justifiable opinions_ - not _scientific 
 
 ### Browser
 
-🖥 [Firefox](https://www.mozilla.org/en-US/firefox/)  
-🖥 [TOR](https://www.torproject.org/)
+💻 [Firefox](https://www.mozilla.org/en-US/firefox/)  
+💻 [TOR](https://www.torproject.org/)
 
 #### Browser Plugins/Add-ons
 
@@ -103,7 +103,7 @@ Use it wherever offered!
 
 Built-in encryption is often strong. Compliance with police and secret services varies.
 
-🔒 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+🔒 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)  
 🔒 [BoxCryptor](https://www.boxcryptor.com/)
 
 ### Updates
