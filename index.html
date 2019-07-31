@@ -8,7 +8,13 @@
   <link rel="stylesheet" href="/style/reset.css">
   <link rel="stylesheet" href="/style/foundation.min.css">
   <link rel="stylesheet" href="/style/override.css">
-  <script src="/scripts/foundation.min.js" async></script>
+  <script src="/scripts/foundation.min.js"></script>
+  <script src="/scripts/foundation.sticky.min.js"></script>
+  <script src="/scripts/foundation.util.mediaQuery.min.js"></script>
+  <script src="/scripts/foundation.util.triggers.min.js"></script>
+  <script>
+    $(document).foundation();
+  </script>
 </head>
 <body>
   <header>
@@ -18,7 +24,7 @@
         data-sticky data-options="marginTop:0;"
         style="width:100%"
         data-top-anchor="1"
-        data-btm-anchor="content:bottom">
+        data-btm-anchor="footer:top">
         <li>
           <a href="/">Home</a>
         </li>
@@ -49,7 +55,7 @@
     </section>
   </main>
 
-  <footer class="grid-container">
+  <footer id="footer" class="grid-container">
     <div class="grid-x grid-padding-x">
       <div class="cell small-12">
         Foo
