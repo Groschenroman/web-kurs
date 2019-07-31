@@ -15,13 +15,17 @@
   <script src="/scripts/foundation.util.triggers.min.js"></script>
   <script>
     $(document).foundation();
+    $(document).ready(() => {
+      console.log($(document).foundation());
+    })
   </script>
 </head>
 <body>
   <header data-sticky-container>
     <ul
       class="title-bar menu"
-      data-sticky data-options="marginTop:0;"
+      data-sticky
+      data-options="marginTop:0;"
       style="width:100%"
       data-top-anchor="1"
       data-btm-anchor="footer:top">
