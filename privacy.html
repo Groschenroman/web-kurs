@@ -8,21 +8,6 @@
   <link rel="stylesheet" href="/style/reset.css">
   <link rel="stylesheet" href="/style/foundation.min.css">
   <link rel="stylesheet" href="/style/override.css">
-  <script src="/scripts/jquery.3.4.1.min.js"></script>
-  <script src="/scripts/foundation.min.js"></script>
-  <script src="/scripts/foundation.core.min.js"></script>
-  <script src="/scripts/foundation.sticky.min.js"></script>
-  <script src="/scripts/foundation.util.mediaQuery.min.js"></script>
-  <script src="/scripts/foundation.util.triggers.min.js"></script>
-  <script>
-    $(document).foundation();
-    $(document).ready(() => {
-      console.log('foundation: ', $(document).foundation());
-    })
-    if (document) {
-      console.log('document: ', document)
-    }
-  </script>
 </head>
 <body>
   <header data-sticky-container>
@@ -221,5 +206,16 @@
       </div>
     </div>
   </footer>
+  <script src="/scripts/jquery.3.4.1.min.js"></script>
+  <script src="/scripts/foundation.min.js"></script>
+  <script src="/scripts/foundation.core.min.js"></script>
+  <script src="/scripts/foundation.sticky.min.js"></script>
+  <script src="/scripts/foundation.util.mediaQuery.min.js"></script>
+  <script src="/scripts/foundation.util.triggers.min.js"></script>
+  <script>
+    $(document).ready(() => {
+      $(document).foundation();
+    });
+  </script>
 </body>
 </html>
