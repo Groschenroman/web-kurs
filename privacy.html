@@ -16,8 +16,11 @@
   <script>
     $(document).foundation();
     $(document).ready(() => {
-      console.log($(document).foundation());
+      console.log('foundation: ', $(document).foundation());
     })
+    if (document) {
+      console.log('document: ', document)
+    }
   </script>
 </head>
 <body>
