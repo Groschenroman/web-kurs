@@ -14,3 +14,8 @@
     display: none;
   }
 }
+
+/* Custom overrides */
+ul, ol {
+  list-style: none;
+}
