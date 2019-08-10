@@ -14,6 +14,7 @@ a,
 a:link {
   color: #6a9955;
   cursor: pointer;
+  hyphens: auto;
   transition: color .3s ease;
 }
 a:hover,
@@ -62,7 +63,6 @@ main {
   }
 }
 
-#header,
 .top-bar,
 .top-bar ul,
 .title-bar,
@@ -88,4 +88,9 @@ main {
 /* Custom overrides */
 ul, ol {
   list-style: none;
+  margin-left: 0;
+}
+
+code {
+  word-break: break-all;
 }
