@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
-    <header data-sticky-container>
+    <header id="header" data-sticky-container>
       <div
         class="sticky"
         data-sticky
@@ -36,10 +36,28 @@
       </div>
     </header>
 
-    <main class="grid-container">
+    <nav class="sub-navigation">
+      <div class="grid-container fluid">
+        <div class="grid-x grid-padding-x align-center">
+          <ul class="menu">
+            <li><a href="#browser">Browser</a></li>
+            <li><a href="#search-engines">Search engines</a></li>
+            <li><a href="#vpns">VPNs</a></li>
+            <li><a href="#firewall">Firewall</a></li>
+            <li><a href="#email">E-Mail</a></li>
+            <li><a href="#passwords">Passwords</a></li>
+            <li><a href="#device-encryption">Device encryption</a></li>
+            <li><a href="#updates">Updates</a></li>
+            <li><a href="#general-advice">General Advice</a></li>
+            <li><a href="#infos">Infos</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <main class="grid-container privacy">
       <section class="grid-x grid-padding-x">
         <h3 class="cell small-12">1. Privacy online</h3>
-        <h4 class="cell small-12">Browser</h4>
+        <h4 id="browser" class="cell small-12">Browser</h4>
         <ul class="cell small-12">
           <li><a href="https://www.mozilla.org/en-US/firefox/">💻 Firefox</a></li>
           <li><a href="https://www.torproject.org/">💻 TOR</a></li>
@@ -103,7 +121,7 @@
           </li>
         </ul>
 
-        <h4 class="cell small-12">Search engine(s)</h4>
+        <h4 id="search-engines" class="cell small-12">Search engine(s)</h4>
         <ul class="cell small-12">
           <li><a href="https://duckduckgo.com/">🔍 DuckDuckGo</a>: When in doubt use <a href="https://duckduckgo.com/bang">!bangs</a></li>
           <li><a href="https://www.startpage.com/">🔍 StartPage</a> (Google results, made by IxQuick)</li>
@@ -141,14 +159,14 @@
         <h5 class="cell small-12">Wayback machine</h5>
         <p class="cell small-12"><a href="https://archive.org/web/web.php">🕰 Wayback machine (from Internet Archive)</a></p>
 
-        <h4 class="cell small-12">VPNs</h4>
+        <h4 id="vpns" class="cell small-12">VPNs</h4>
         <p class="cell small-12"><a href="https://vpnpro.com/vpn-reviews/?sorting=rating">🔒 VPN Pro review</a></p>
         <p class="cell small-12">⚠️ Don't use "free" VPNs - you pay with your data.</p>
 
-        <h4 class="cell small-12">Firewall</h4>
+        <h4 id="firewall" class="cell small-12">Firewall</h4>
         <p class="cell small-12"><a href="https://www.obdev.at/products/littlesnitch/index.html">🔥 Little Snitch</a></p>
 
-        <h4 class="cell small-12">Email</h4>
+        <h4 id="email" class="cell small-12">Email</h4>
         <ul class="cell small-12">
           <li><a href="https://posteo.de/">📧 Posteo</a></li>
           <li><a href="https://protonmail.com/">📧 ProtonMail</a></li>
@@ -166,13 +184,14 @@
         <h5 class="cell small-12">PGP/GnuPG</h5>
         <p class="cell small-12"><a href="https://www.openpgp.org/software/">🔐 Open PGP</a></p>
 
-        <h4 class="cell small-12">Password(s)</h4>
+        <h4 id="passwords" class="cell small-12">Password(s)</h4>
         <p class="cell small-12">Use a password manager!</p>
 
         <ul class="cell small-12">
           <li><a href="https://www.remembear.com/">🔏 RememBear</a></li>
           <li><a href="https://1password.com/">🔏 One Password</a></li>
           <li><a href="https://www.dashlane.com/">🔏 Dash Lane</a></li>
+          <li><a href="https://lastpass.com/">🔏 Last Pass</a></li>
         </ul>
 
         <p class="cell small-12">
@@ -183,17 +202,17 @@
         <h5 class="cell small-12">Two-Factor Authentication (2FA) / "Two-Step Verification"</h5>
         <p class="cell small-12">Use it wherever offered!</p>
 
-        <h4 class="cell small-12">Device Encryption</h4>
+        <h4 id="device-encryption" class="cell small-12">Device Encryption</h4>
         <p class="cell small-12">Built-in encryption is often strong. Compliance with police and secret services varies.</p>
         <ul class="cell small-12">
           <li><a href="https://www.veracrypt.fr/en/Home.html">🔒 VeraCrypt</a></li>
           <li><a href="https://www.boxcryptor.com/">🔒 BoxCryptor</a></li>
         </ul>
 
-        <h4 class="cell small-12">Updates</h4>
-        <p class="cell small-12">Do them!</p>
+        <h4 id="updates" class="cell small-12">Updates</h4>
+        <p class="cell small-12">Do them! They usually contain security fixes.</p>
 
-        <h4 class="cell small-12">General advice</h4>
+        <h4 id="general-advice" class="cell small-12">General advice</h4>
         <p class="cell small-12">
           Check your device and (social) account settings.<br/>
           Don't use apps if the service is available in browser.<br/>
@@ -205,7 +224,7 @@
           Check which mail accounts might have been leaked using <a href="https://haveibeenpwned.com/">Have I been pwned?</a>
         </p>
 
-        <h4 class="cell small-12">Infos</h4>
+        <h4 id="infos" class="cell small-12">Infos</h4>
         <ul class="cell small-12">
           <li><a href="https://heise.de/">📰 Heise</a></li>
           <li><a href="https://logbuch-netzpolitik.de/">📰 Logbuch Netzpolitik (Podcast)</a></li>
