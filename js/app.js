@@ -1,4 +1,4 @@
-$(document).foundation()
+$(document).foundation();
 
 // Select all links with hashes
 $('a[href*="#"]')
@@ -37,3 +37,16 @@ $('a[href*="#"]')
       }
     }
   });
+
+function flipImage(ev) {
+  if (!ev) {
+    return;
+  }
+
+  const img = ev.target;
+  if (img.classList.contains('is-flipped')) {
+    img.classList.remove('is-flipped');
+  } else {
+    img.classList.add('is-flipped');
+  }
+}
