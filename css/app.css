@@ -38,17 +38,23 @@ h4:focus {
 
 main {
   padding-bottom: 32px;
-  display: flex;
-  align-items: center;
 }
 
 .home {
-  height: calc(100vh - 40px);
+  min-height: calc(100vh - 40px);
+
 }
+.home section:nth-of-type(2) {
+  padding-top: 64px;
+}
+
 @media screen and (min-width: 40em) {
   .home {
-    height: calc(100vh - 54.4px);
+    min-height: calc(100vh - 54.4px);
     padding-bottom: 64px;
+  }
+  .home h2 {
+    margin-bottom: 32px;
   }
 }
 
@@ -79,6 +85,11 @@ main {
     left: 0;
     right: 0;
   }
+}
+
+.site-title img {
+  width: 30px;
+  height: auto;
 }
 
 #footer {
