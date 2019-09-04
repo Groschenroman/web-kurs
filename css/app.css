@@ -85,9 +85,13 @@ main {
     left: 0;
     right: 0;
   }
+  .top-bar-left .menu {
+    display: flex;
+    align-items: center;
+  }
 }
 
-.site-title img {
+.logo-header {
   width: 30px;
   height: auto;
 }
